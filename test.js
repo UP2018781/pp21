@@ -46,7 +46,7 @@ QUnit.test(
 /*
  * Does the server actually work?
  * The most basic HTTP server that serves any content
- * from teh route / should pass this test.
+ * from the route / should pass this test.
  */
 asyncTest(
   `Start server`,
